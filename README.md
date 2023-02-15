@@ -1,6 +1,6 @@
 # code-with-quarkus
 
-This project uses Quarkus, the Supersonic Subatomic Java Framework, Lombok, MapperStruct, Panache
+This project uses Quarkus, the Supersonic Subatomic Java Framework, Lombok, MapperStruct, Panache, H2 or Postgres
 
 
 If you want to learn more about Quarkus, Lombok, MapStruct, Panache please visit their websites: 
@@ -12,6 +12,10 @@ https://projectlombok.org/
 https://mapstruct.org/
 
 https://quarkus.io/guides/hibernate-orm-panache
+
+https://www.postgresql.org/
+
+https://www.h2database.com/html/main.html
 
 
 ## Running the application in dev mode
