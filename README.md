@@ -3,13 +3,15 @@
 This project uses Quarkus, the Supersonic Subatomic Java Framework, Lombok, MapperStruct, Panache
 
 
-If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
+If you want to learn more about Quarkus, Lombok, MapStruct, Panache please visit their websites: 
 
-If you want to learn more about Lombok https://projectlombok.org/
+https://quarkus.io/ 
 
-If you want to learn more about MapStruct https://mapstruct.org/
+https://projectlombok.org/
 
-If you want to learn more about Panache https://quarkus.io/guides/hibernate-orm-panache
+https://mapstruct.org/
+
+https://quarkus.io/guides/hibernate-orm-panache
 
 
 ## Running the application in dev mode
